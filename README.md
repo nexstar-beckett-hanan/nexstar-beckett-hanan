@@ -5,7 +5,7 @@ I'm a frontend engineer at Nexstar Media.
 The first is called CodeMapper and allows you to get a high-level overview of a project. It's ideal for projects with a lot of JavaScript and we're working to make the results easier to understand if you have trouble seeing the visualizations.
 The second can be found at <a href="http://www.crushwhitesupremacy.com">www.crushwhitesupremacy.com</a> and is a quick way to find out what anti-racist action you can take with the specific amount of time or money you currently have available. At the moment it's mainly aimed towards white people but the goal is to expand the database of possible actions and customize things even more so that everyone can have useful suggestions offered to them.
 - I'd love to collaborate on projects with a focus on making the web more accessible to visually impaired and blind people.
-- I’m looking for help with my anti-racist project. I have a LOT of actions that need to be sorted in an excel sheet or added directly to the databse so the frontend knows who to offer them to.
+- I’m looking for help with my anti-racist project. I have a LOT of actions that need to be sorted in an excel sheet or added directly to the database so the frontend knows who to offer them to.
 
 <a href="https://github.com/becketth/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=becketth&show_icons=true&theme=algolia" />
