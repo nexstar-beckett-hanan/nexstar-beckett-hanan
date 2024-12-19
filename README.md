@@ -8,9 +8,9 @@ The second can be found at <a href="http://www.crushwhitesupremacy.com">www.crus
 - I’m looking for help with my anti-racist site. I have a lot of actions that need to be sorted in an excel sheet or added directly to the database so the frontend knows who to offer them to.
 
 <a href="https://github.com/becketth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=becketth&show_icons=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nexstar-beckett-hanan&show_icons=true&theme=algolia" />
 </a>
 
 <a href="https://github.com/becketth/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becketth&layout=compact&langs_count=8&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexstar-beckett-hanan&layout=compact&langs_count=8&theme=algolia" />
 </a>
