@@ -10,5 +10,3 @@ I’ve got a couple personal projects I work on when I have time:
 I'd love to collaborate on projects with a focus on making the web more accessible. If you have something you could use my support on, let me know and I'd love to jump in if I have time!
 
 I’m also looking for help with crushwhitesupremacy.com - I have a lot of actions that need to be sorted in an excel sheet or added directly to the database so the frontend knows who to offer them to.
-
-<img src="./git-wrapped-nexstar-beckett-hanan.png"/>
