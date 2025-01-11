@@ -1,5 +1,5 @@
 Hey! I'm Beckett. My pronouns are they/them or he/him.
-I'm a Frontend Software Engineer III at Nexstar Media.
+My most recent role was Sr. Frontend Software Engineer at Nexstar Media.
 
 I’ve got a couple personal projects I work on when I have time:
 <ul>
